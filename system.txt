@@ -1,0 +1,6 @@
+2
+1 ACER 0
+2 MSI 0
+COMPONENTS
+1
+1 ryzen_5_1600 AMD Processor Available
